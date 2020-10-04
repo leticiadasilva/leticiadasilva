@@ -29,6 +29,10 @@ Luto para incentivar pessoas, principalmente mulheres, a entrarem em TI, acredit
 
 Onde me encontrar? :mag:  
 
-:blue_heart: [Twitter](https://twitter.com/dii_lua)  
-:purple_heart: [LinkedIn](https://www.linkedin.com/in/leticiasilvar)  
-:orange_heart: [Email](mailto:leticiadasilva.contato@gmail.com)  
+<a href="https://twitter.com/dii_lua"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/twitter.png" width="16"></img></a> Twitter  
+
+<a href="https://www.instagram.com/dii_lua/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/instagram.png" width="16"></img></a> Instagram  
+
+<a href="https://www.linkedin.com/in/leticiasilvar"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/linkedin.png" width="16"></img></a> LinkedIn  
+
+<a href="mailto:leticiadasilva.contato@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/email.png" width="16"></img></a> Email  
