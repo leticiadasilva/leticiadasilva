@@ -1,9 +1,19 @@
-### Hi there 👋
+![capa github](https://github.com/leticiadasilva/leticiadasilva/blob/main/Capa_github_redmensionada.jpg)  
 
-<!--
-**leticiadasilva/leticiadasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiadasilva&hide=html&layout=compact&theme=dracula" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=leticiadasilva&theme=dracula" /></td>
+    </tr>   
+  </table>
+</center>  
+
+### Olá! Boas vindas / Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+---
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
