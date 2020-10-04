@@ -14,10 +14,10 @@
 
 ---
 
-Sou Cientista de Dados, atuando na área desde 2018 e graduanda em Ciência da Computação. Escrevo no [dev.to](https://dev.to/dii_lua), [Medium](https://medium.com/@dii_lua), e no meu [blog](https://leticiadasilva.github.io/) pessoal :revolving_hearts:.  
+Sou Cientista de Dados, atuando na área desde 2018 e graduanda em Ciência da Computação. Escrevo no [dev.to](https://dev.to/dii_lua), [Medium](https://medium.com/@dii_lua), e no meu [blog](https://leticiadasilva.github.io/) pessoal :revolving_hearts:  
 
-Amo dançar :dancer:, ler :books: e ir a karaokês :microphone:
-Sou mãe de duas gatinhas, a Ruby e a Banguela :cat2:.  
+Amo dançar :dancer:, ler :books: e ir a karaokês :microphone:  
+Sou mãe de duas gatinhas, a Ruby e a Banguela :cat2:  
 
 ---
 
