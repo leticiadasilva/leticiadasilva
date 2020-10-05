@@ -37,5 +37,6 @@ Onde me encontrar? :mag:
 
 <a href="mailto:leticiadasilva.contato@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:leticiadasilva.contato@gmail.com)  
 
+---  
 
 ![](https://komarev.com/ghpvc/?username=leticiadasilva&color=blue&style=flat)
