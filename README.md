@@ -1,4 +1,4 @@
-![capa github](https://github.com/leticiadasilva/leticiadasilva/blob/main/Capa_github_2.jpg)  
+![capa github](https://github.com/leticiadasilva/leticiadasilva/blob/main/Capa_github.png)  
 
 
 <center>
