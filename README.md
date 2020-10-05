@@ -29,10 +29,10 @@ Luto para incentivar pessoas, principalmente mulheres, a entrarem em TI, acredit
 
 Onde me encontrar? :mag:  
 
-<a href="https://twitter.com/dii_lua"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/twitter.png" width="16"></img></a> Twitter  
+<a href="https://twitter.com/dii_lua"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/dii_lua)   
 
-<a href="https://www.instagram.com/dii_lua/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/instagram.png" width="16"></img></a> Instagram  
+<a href="https://www.instagram.com/dii_lua/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/dii_lua)  
 
-<a href="https://www.linkedin.com/in/leticiasilvar"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/linkedin.png" width="16"></img></a> LinkedIn  
+<a href="https://www.linkedin.com/in/leticiasilvar"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/leticiasilvar)  
 
-<a href="mailto:leticiadasilva.contato@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/email.png" width="16"></img></a> Email  
+<a href="mailto:leticiadasilva.contato@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/email.png" width="16"></img></a> [Email](mailto:leticiadasilva.contato@gmail.com)  
