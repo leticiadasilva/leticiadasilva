@@ -10,7 +10,7 @@
   </table>
 </center>  
 
-### Olá! Boas vindas :) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Olá! Boas vindas :) <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/Hi.gif" width="30px"></h2>
 
 ---
 
