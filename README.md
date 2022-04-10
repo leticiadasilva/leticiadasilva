@@ -25,7 +25,7 @@ Sou mãe de dois gatinhos, o Cenourinha 🥕 e a Ana Catarina 🥑
 
 Sou organizadora de comunidades, como o [Django Girls](https://www.instagram.com/djangogirlssjc/), [PyLadies](https://www.instagram.com/pyladiessjc/), GruPy, [Women Techmakers](https://www.instagram.com/wtmsjc/) e [GDG](https://www.instagram.com/gdgsjc/) de São José dos Campos. Fui Developer Student Club Lead ([DSC](https://dsc.community.dev/universidade-paulista/) da Google) do primeiro ciclo de embaixadores no Brasil, em 2020.
 
-Luto para incentivar pessoas, principalmente mulheres, a entrarem em TI, acreditarem em si mesmas e mostrar que programar transforma vidas! :revolving_hearts:   
+Luto para incentivar pessoas, principalmente de grupos minorizados, a entrarem em TI, acreditarem em si mesmas e mostrar que programar transforma vidas! :revolving_hearts:   
 
 ---
 
