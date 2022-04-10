@@ -14,14 +14,16 @@
 
 ---
 
-Sou Cientista de Dados, atuo na área desde 2017 (e desde 2005 estudando informática :scream:) e sou graduanda em Ciência da Computação. Escrevo no [dev.to](https://dev.to/dii_lua), [Medium](https://medium.com/@dii_lua), e no meu [blog](https://leticiadasilva.github.io/) pessoal.  
+Eu me chamo Letícia, mas sou mais conhecida como dii_lua nas redes sociais 💖 Sou Engineer Manager na [Z1](https://z1.app/), e tenho atuado como Cientista de Dados e Dev Experience ao longo desses anos. Trabalho com tecnologia desde 2017, e desde 2015 atuo nas comunidades (mas estudo informática desde 2005 haha :scream:), minha formação é em Ciência da Computação. 
+
+Escrevo no [dev.to](https://dev.to/dii_lua), [Medium](https://medium.com/@dii_lua), e no meu [blog](https://leticiadasilva.github.io/) pessoal.  
 
 Amo dançar :dancer:, ler :books: e ir a karaokês :microphone:  
-Sou mãe de duas gatinhas, a Ruby e a Banguela :cat2:  
+Sou mãe de dois gatinhos, o Cenourinha 🥕 e a Ana Catarina 🥑  
 
 ---
 
-Sou Developer Student Club Lead ([DSC](https://dsc.community.dev/universidade-paulista/), da Google), organizadora do [Django Girls](https://www.instagram.com/djangogirlssjc/), [PyLadies](https://www.instagram.com/pyladiessjc/), GruPy, [Women Techmakers](https://www.instagram.com/wtmsjc/) e [GDG](https://www.instagram.com/gdgsjc/) de São José dos Campos.  
+Sou organizadora de comunidades, como o [Django Girls](https://www.instagram.com/djangogirlssjc/), [PyLadies](https://www.instagram.com/pyladiessjc/), GruPy, [Women Techmakers](https://www.instagram.com/wtmsjc/) e [GDG](https://www.instagram.com/gdgsjc/) de São José dos Campos. Fui Developer Student Club Lead ([DSC](https://dsc.community.dev/universidade-paulista/) da Google) do primeiro ciclo de embaixadores no Brasil, em 2020.
 
 Luto para incentivar pessoas, principalmente mulheres, a entrarem em TI, acreditarem em si mesmas e mostrar que programar transforma vidas! :revolving_hearts:   
 
