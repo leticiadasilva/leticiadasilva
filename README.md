@@ -11,7 +11,7 @@
 
 ---
 
-Eu me chamo Letícia, mas sou mais conhecida como dii_lua nas redes sociais 💖 Sou Engineer Manager especialista em Fraudes no [iFood](https://www.ifood.com.br/), e tenho atuado como Cientista de Dados e Dev Experience ao longo desses anos. Trabalho com tecnologia desde 2012, e desde 2015 atuo nas comunidades (mas estudo informática desde 2005 haha :scream:), minha formação é em Ciência da Computação. 
+Eu me chamo Letícia, mas sou mais conhecida como dii_lua nas redes sociais 💖 Sou Engineer Manager especialista em Fraudes, e tenho atuado como Cientista de Dados e Dev Experience ao longo desses anos. Trabalho com tecnologia desde 2012, e desde 2015 atuo nas comunidades (mas estudo informática desde 2005 haha :scream:), minha formação é em Ciência da Computação. 
 
 Escrevo no [dev.to](https://dev.to/dii_lua), [Medium](https://medium.com/@dii_lua), e no meu [blog](https://leticiadasilva.github.io/) pessoal.  
 
